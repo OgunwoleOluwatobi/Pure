@@ -1,0 +1,16 @@
+{
+  "name": "pure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://OgunwoleOluwatobi.github.io/Pure",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Archie",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
